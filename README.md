@@ -14,3 +14,6 @@ APIs
 
 ## Latitude vs Wind Speed
 ![](https://github.com/SakshiDS/Week05/blob/master/latvswindspeed.png)
+
+## Latitude vs Humidity/Cloudiness/Wind Speed (Seaborn)
+![](https://github.com/SakshiDS/Week05/blob/master/seaborn_plot.png)
